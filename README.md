@@ -1,5 +1,4 @@
 
-```markdown
 # Reddit User Persona Generator
 
 This project generates a detailed **user persona** from a given Reddit profile by analyzing their recent posts and comments. It uses the Reddit API (`praw`) to fetch user data and Google's Gemini 2.5 Flash model to analyze the data and generate a structured persona.
